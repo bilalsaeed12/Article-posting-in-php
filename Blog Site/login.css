@@ -1,0 +1,42 @@
+body {
+  background-color: #8ac06c;
+}
+
+.form {
+  height: 350px;
+  width: 400px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-center {
+  margin-top: 35px;
+}
+
+#exampleInputEmail1 {
+  background-color: #f2f2f2;
+  border-radius: 0ch;
+  width: 70%;
+  margin-top: 30px;
+  margin-left: 55px;
+}
+
+#exampleInputPassword1 {
+  background-color: #f2f2f2;
+  border-radius: 0ch;
+  width: 70%;
+  margin-top: 30px;
+  margin-left: 55px;
+}
+
+.btn-primary {
+  background-color: #4cb051;
+  border-color: #4cb051;
+  border-radius: 0ch;
+  width: 70%;
+  margin-top: 30px;
+  margin-left: 55px;
+}

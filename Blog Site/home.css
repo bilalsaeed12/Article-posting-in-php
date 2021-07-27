@@ -1,0 +1,38 @@
+#a-logout {
+  color: inherit;
+  text-decoration: none;
+}
+
+.btn {
+  margin-left: 50px;
+}
+
+.navbar {
+  background-color: #8ac06c;
+}
+.myprofileForm {
+  padding: 15px;
+  width: 70%;
+  margin-left: 10%;
+  background-color: #f8f9fa;
+  margin-top: 70px;
+}
+
+.form-group {
+  padding: 15px;
+}
+
+.card {
+  top: 220px;
+  margin: 60px;
+  left: 42%;
+  transform: translate(-50%, -50%);
+  float: inline;
+}
+
+.card-btn {
+  margin-left: 30px;
+}
+#card-edit {
+  margin-left: 200px;
+}

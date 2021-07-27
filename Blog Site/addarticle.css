@@ -1,0 +1,23 @@
+#a-logout {
+  color: inherit;
+  text-decoration: none;
+}
+
+.btn {
+  margin-left: 50px;
+}
+
+.navbar {
+  background-color: #8ac06c;
+}
+.myprofileForm {
+  padding: 15px;
+  width: 70%;
+  margin-left: 12%;
+  background-color: #f8f9fa;
+  margin-top: 70px;
+}
+
+.form-group {
+  padding: 15px;
+}
